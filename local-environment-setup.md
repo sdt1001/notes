@@ -15,3 +15,4 @@
 	c.	Went back to docker.com to download docker toolbox
 	d.	Downloaded docker toolbox successfully.
 	e.	Attempted installation.
+	f.  Installation failed due to Oracle VM Box requiring a 64 bit processor and this computer only has a 32 bit processor. 
